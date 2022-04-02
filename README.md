@@ -28,6 +28,7 @@ pins you want in rpmidi.py (as long as they are PWM supported, which should'nt b
 ## Changelog
 | Version | Info |
 | ------- | ---- |
+| v1.1 | Timing bug fix and code cleanliness fixes. |
 | v1.0 | Initial commit. |
 
 ## Known bugs
