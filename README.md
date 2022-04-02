@@ -9,8 +9,9 @@ and shove them down your Raspberry Pi Pico's GPIO pins as PWM signals.
 * Download the source code and extract it's contents onto your Raspberry Pi Pico.
 Make sure that it's running MicroPython first. I would recommend using Thonny.
 * Download a MIDI file (No more than 4 voices)!
-* Shove your MIDI file into this converter: https://github.com/LenShustek/miditones
-and add your song data in songs.py.
+* Shove your MIDI file into this [converter](https://github.com/LenShustek/miditones)
+and add your song data in songs.py. Recommended default settings are `.\miditones.exe -t=4 .\your-midi-here.mid`
+
 * See main.py for the rest!
 
 ## GPIO defaults
